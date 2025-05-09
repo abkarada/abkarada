@@ -1,4 +1,3 @@
-![MasterHead](http://wallpapers.com/images/featured/the-social-network-l26v8qnqzd633pll.jpg)
 <h1 align="center">Hi there, Abdurrahman</h1>
 <h3 align="center">Just an overly passionate computer engineering student</h3>
 
