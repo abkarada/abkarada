@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Networks, Databases, Remote Communication,Distributed Systems,Embedded Systems,System Engineering and Artificial Intelligence.**
 
-- 📫 How to reach me **abdurrahmankaradag19@gmail.com**
+- How to reach me **abdurrahmankaradag19@gmail.com**
 
 - ⚡ Fun fact **I am someone who has adopted the theme of creating from scratch, so instead of including ready-made libraries in my projects, I usually write library functions myself (although sometimes it takes hours).**
 
