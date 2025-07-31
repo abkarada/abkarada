@@ -1,10 +1,7 @@
 <h1 align="center">Abdurrahman Karadağ</h1>
-<h3 align="center">Founder & CEO of NovaSafer</h3>
-
-<p align="center"><em>"Don't trust us just understand the system."</em></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e0e0e&height=140&section=header&text=SafeRoom%20Protocol%20Realm&fontColor=ffffff&fontSize=26&desc=NovaSafer%20Founder%20%7C%20System%20Architect&descSize=14&descAlign=60&descAlignY=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=Founder+%26+CEO+of+NovaSafer;Architect+of+SafeRoom+Protocol+Realm;Secure+Protocol+Design+%7C+NAT+Traversal+%7C+P2P+Media+Systems" alt="Typing SVG" />
 </p>
 
 ---
