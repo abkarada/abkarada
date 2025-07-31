@@ -13,26 +13,24 @@
 
 ---
 
-###  Currently Learning
 
-**Networks**, **Databases**, **Remote Communication**,  
-**Distributed Systems**, **Embedded Systems**,  
-**System Engineering**, and **Artificial Intelligence**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3500&pause=1000&color=F700FF&center=true&vCenter=true&width=580&lines=Networks" alt="Networks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=580&lines=Databases" alt="Databases" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3500&pause=1000&color=FF00AA&center=true&vCenter=true&width=580&lines=Remote+Communication" alt="Remote Communication" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3500&pause=1000&color=F700FF&center=true&vCenter=true&width=580&lines=Distributed+Systems" alt="Distributed Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=580&lines=Embedded+Systems" alt="Embedded Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3500&pause=1000&color=FF00AA&center=true&vCenter=true&width=580&lines=System+Engineering" alt="System Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=22&duration=3500&pause=1000&color=F700FF&center=true&vCenter=true&width=580&lines=Artificial+Intelligence" alt="Artificial Intelligence" />
+</p>
+
 
 ---
 
 ### Contact
 
 - Email: **abdurrahmankaradag19@gmail.com**
-
-
----
-
-### Philosophy
-
-> I have adopted the theme of creating from scratch.  
-> Instead of relying on pre-built libraries, I often write everything myself — even if it takes hours.
-
 ---
 
 ### Connect with Me
@@ -122,5 +120,3 @@
 </p>
 
 ---
-
-> “If I can’t find a way, I’ll **build** one. If I can’t build it, I’ll **learn** until I can.”
