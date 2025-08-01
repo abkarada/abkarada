@@ -116,14 +116,5 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=abkarada&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abkarada&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=abkarada&theme=github">
-## My Profile
-<div>
-  <a href="https://github.com/taozhi8833998"><img width="850px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abkarada&theme=vision_friendly_dark"/></a>
-</div>
 
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
----
