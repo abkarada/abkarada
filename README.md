@@ -1,7 +1,7 @@
 <h1 align="center">Abdurrahman Karadağ</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=Founder+%26+CEO+of+RoftCore;Architect+of+SafeRoom+Protocol+Realm;Secure+Protocol+Design+%7C+NAT+Traversal+%7C+P2P+Media+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=Secure+Protocol+Design+%7C+NAT+Traversal+%7C+P2P+Media+Systems" alt="Typing SVG" />
 </p>
 
 ---
