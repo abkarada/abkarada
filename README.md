@@ -1,120 +1,58 @@
-<h1 align="center">Abdurrahman Karadağ</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Abdurrahman%20Karadağ&fontSize=60&fontColor=00FF41&fontAlignY=35&desc=Founder%20%7C%20Protocol%20Engineer%20%7C%20System%20Architect&descAlignY=55&descSize=20&animation=twinkling" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=Secure+Protocol+Design+%7C+NAT+Traversal+%7C+P2P+Media+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=>_INITIATING_SECURE_PROTOCOL...;>_BUILDING_P2P_MEDIA_SYSTEMS...;>_NAT_TRAVERSAL_ESTABLISHED...;>_EXECUTING_FOUNDER_MODE...;>_NO_COMPROMISE." alt="Typing SVG" />
 </p>
 
 ---
 
-### Current Focus
+### `root@abkarada:~# ./current_focus.sh`
 
-- Developing a close virtual endpoint blockchain communication protocol: **SafeRoom**
-- Learn More: [www.saferoomofficial.com](https://www.saferoomofficial.com)
-
----
-
-
-
-<h3 align="left" style="font-family: 'Segoe UI', sans-serif; color: #00CFFF; font-weight: bold;">Areas of Expertise</h3>
-
-<p align="left" style="font-size: 18px; font-family: 'Segoe UI', sans-serif; color: #ddd; line-height: 1.8;">
-  🌐 Networks<br>
-  🗄️ Databases<br>
-  📡 Remote Communication<br>
-  🧩 Distributed Systems<br>
-  🔧 Embedded Systems<br>
-  🛠️ System Engineering<br>
-  🧠 Artificial Intelligence
-</p>
-
+>  **Mission:** Engineering a zero-trust, decentralized  communication platform: **[SafeRoom](https://www.saferoomofficial.com)**.
+>  **Objective:** Redefining digital sovereignty through uncompromising protocol design. No middle-men, no tracking, pure tech.
 
 ---
 
-### Contact
+### `root@abkarada:~# cat core_competencies.txt`
 
-- Email: **abdurrahmankaradag19@gmail.com**
+| Architecture & Systems | Communication & Data |
+| :--- | :--- |
+| 🛡️ **Secure Networks & Protocol Design** | 🕸️ **Distributed P2P Systems** |
+| ⚙️ **Low-Level System Engineering** | 🗄️ **Advanced Database Systems** |
+| 🔌 **Embedded Systems Architecture** | 🌐 **NAT Traversal & Routing** |
+| 🧠 **Artificial Intelligence & ML** | 📡 **Remote Communication** |
+
 ---
 
-### Connect with Me
+### `root@abkarada:~# ls -l tools_and_weapons/`
 
-<p align="left">
-  <a href="https://www.instagram.com/a._karadag/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@abdurrahmankara2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,java,bash,linux,git,mongodb,postgres,mysql,tensorflow,opencv,flutter,html,css,arduino,spring&perline=10" />
   </a>
 </p>
 
 ---
 
-### Languages and Tools
+### `root@abkarada:~# htop -u abkarada`
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abkarada&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkarada&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
+</p>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abkarada&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" />
 </p>
 
+---
 
-### 📊 GitHub Aura
+### `root@abkarada:~# ./establish_connection.sh`
 
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=abkarada&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abkarada&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=abkarada&theme=github">
-
-
+<p align="center">
+  <a href="mailto:abdurrahmankaradag19@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" /></a>
+  <a href="https://www.saferoomofficial.com"><img src="https://img.shields.io/badge/SafeRoom-000000?style=for-the-badge&logo=tor&logoColor=00FF41" alt="SafeRoom" /></a>
+  <a href="https://www.hackerrank.com/@abdurrahmankara2"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00FF41" alt="HackerRank" /></a>
+  <a href="https://www.instagram.com/a._karadag/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram" /></a>
+</p>
