@@ -19,10 +19,10 @@
 
 | Architecture & Systems | Communication & Data |
 | :--- | :--- |
-| 🛡️ **Secure Networks & Protocol Design** | 🕸️ **Distributed P2P Systems** |
-| ⚙️ **Low-Level System Engineering** | 🗄️ **Advanced Database Systems** |
-| 🔌 **Embedded Systems Architecture** | 🌐 **NAT Traversal & Routing** |
-| 🧠 **Artificial Intelligence & ML** | 📡 **Remote Communication** |
+| **Secure Networks & Protocol Design** | **Distributed P2P Systems** |
+| **Low-Level System Engineering** | **Advanced Database Systems** |
+| **Embedded Systems Architecture** | **NAT Traversal & Routing** |
+| **Artificial Intelligence & ML** | **Remote Communication** |
 
 ---
 
