@@ -26,7 +26,7 @@
 
 ---
 
-### `root@abkarada:~# ls -l tools_and_weapons/`
+### `root@abkarada:~# ls -l tools/`
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,9 +39,10 @@
 ### `root@abkarada:~# htop -u abkarada`
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abkarada&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abkarada&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abkarada&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&v=1" />
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abkarada&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117&v=1" />
 </p>
+
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abkarada&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" />
 </p>
