@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=>_INITIATING_SECURE_PROTOCOL...;>_BUILDING_P2P_MEDIA_SYSTEMS...;>_NAT_TRAVERSAL_ESTABLISHED...;>_EXECUTING_FOUNDER_MODE...;>_NO_COMPROMISE." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=>_INITIATING_SECURE_PROTOCOL...;>_BUILDING_P2P_MEDIA_SYSTEMS...;>_NAT_TRAVERSAL_ESTABLISHED...;>_NO_COMPROMISE." alt="Typing SVG" />
 </p>
 
 ---
